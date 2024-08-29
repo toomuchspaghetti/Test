@@ -1,4 +1,4 @@
-$source = "https://github.com/toomuchspaghetti/Test/raw/master/sigma.mp4"
+$source = "https://raw.githubusercontent.com/toomuchspaghetti/Test/master/sigma.mp4"
 $destination = "skibidi.mp4"
 
 cd $env:APPDATA
